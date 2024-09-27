@@ -10,13 +10,13 @@ This website showcases the services offered, portfolio projects, skills, educati
 
 ## Features
 
-- **Responsive Design**: Optimized display across multiple devices, including desktop, tablet, and mobile.
-- **Easy Navigation**: Intuitive menu for a better user experience.
-- **Specialized Services**: Expertise in UI/UX Design, Application Development, and Web Development.
-- **Project Portfolio**: Highlights featured projects with descriptions and the technologies used.
-- **Skills & Education**: Provides information on educational background and technical skills.
-- **Contact Form**: Allows visitors to get in touch directly through the available form.
-- **Social Media Integration**: Links to LinkedIn, WhatsApp, and GitHub profiles.
+- **Responsive Design**
+- **Easy Navigation**
+- **Services**
+- **Project Portfolio**
+- **Skills & Education**
+- **Contact Form**
+- **Social Media Integration**
 
 ## Technologies Used
 
