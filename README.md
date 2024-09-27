@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/c935cc92-535e-45da-b0c1-834088e71f2d)
+
 # Ramadhanty's Portfolio
 
 This repository contains the source code for Ramadhanty Sadewi's personal portfolio website. Ramadhanty is a dedicated and passionate Full Stack Developer specializing in web and application development.
