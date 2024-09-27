@@ -2,11 +2,11 @@
 
 # Ramadhanty's Portfolio
 
-This repository contains the source code for Ramadhanty Sadewi's personal portfolio website. Ramadhanty is a dedicated and passionate Full Stack Developer specializing in web and application development.
+This repository contains the source code for Ramadhanty Sadewi's personal portfolio website.
 
 ## Description
 
-This website showcases the services offered, portfolio projects, skills, education, and contact information. The goal is to provide a comprehensive overview of Ramadhanty’s experience and ability to create innovative and effective web solutions.
+This website showcases the services offered, portfolio projects, skills, education, and contact information. The goal is to provide a comprehensive overview ofexperience and ability to create innovative
 
 ## Features
 
