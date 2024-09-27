@@ -47,3 +47,6 @@ This website showcases the services offered, portfolio projects, skills, educati
 - **LinkedIn**: [Ramadhanty Sadewi](https://linkedin.com/in/ramadhanty-sadewi)
 - **GitHub**: [rantidhanty](https://github.com/rantidhanty)
 - **WhatsApp**: [+62 896-8822-4398](https://wa.me/6289688224398)
+
+## Preview
+https://rantidhanty.github.io/Assignment1_RamadhantySadewi/#portfolio
